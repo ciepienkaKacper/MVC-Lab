@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <header>
+        <h1>Polls</h1>
+    </header>
+
+    <main>
+        <h1>{{ question.question_text }}</h1>
+            <ul>
+            {% for choice in question.choice_set.all %}
+                <li>{{ choice.choice_text }}</li>
+            {% endfor %}
+            </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Kacper</p>
+    </footer>
+
+</body>
+</html>
