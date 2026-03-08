@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20020c8-8561-43b5-8ced-8978573a6b60" name="Changes" comment="Lab2 Page 1,2,3" />
+    <list default="true" id="b20020c8-8561-43b5-8ced-8978573a6b60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Django/polls/templates/polls/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lab2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Lab3",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/kacpe/PycharmProjects/MVC-Lab/Projekt",
     "node.js.detected.package.eslint": "true",
@@ -99,6 +105,7 @@
       <workItem from="1772470509035" duration="8000" />
       <workItem from="1772804737615" duration="9057000" />
       <workItem from="1772832348957" duration="3538000" />
+      <workItem from="1773003148568" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="LAB1 Done">
       <option name="closed" value="true" />
