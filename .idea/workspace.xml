@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20020c8-8561-43b5-8ced-8978573a6b60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Django/polls/templates/polls/results.html" afterDir="false" />
+    <list default="true" id="b20020c8-8561-43b5-8ced-8978573a6b60" name="Changes" comment="Lab 3 page4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/templates/polls/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,25 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lab3",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kacpe/PycharmProjects/MVC-Lab/Projekt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lab3&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kacpe/PycharmProjects/MVC-Lab/Projekt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kacpe\PycharmProjects\MVC-Lab\Projekt" />
@@ -105,7 +104,8 @@
       <workItem from="1772470509035" duration="8000" />
       <workItem from="1772804737615" duration="9057000" />
       <workItem from="1772832348957" duration="3538000" />
-      <workItem from="1773003148568" duration="1602000" />
+      <workItem from="1773003148568" duration="2147000" />
+      <workItem from="1773169194775" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="LAB1 Done">
       <option name="closed" value="true" />
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772835641089</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab 3 page4">
+      <option name="closed" value="true" />
+      <created>1773005163208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773005163208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,7 @@
     <MESSAGE value="Lab2 Page1" />
     <MESSAGE value="Lab2 Page 1/2" />
     <MESSAGE value="Lab2 Page 1,2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2 Page 1,2,3" />
+    <MESSAGE value="Lab 3 page4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 page4" />
   </component>
 </project>
