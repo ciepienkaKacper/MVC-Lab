@@ -210,3 +210,4 @@ marimo/_lsp/
 __marimo__/
 /.vs
 /Dotnet/MvcMovie/.vs
+/Dotnet/MvcMovie/bin/Debug/net10.0/af
